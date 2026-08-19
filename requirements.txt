@@ -1,0 +1,7 @@
+discord.py
+aiohttp
+python-whois
+dnspython
+requests
+beautifulsoup4
+shodan
